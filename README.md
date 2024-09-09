@@ -15,7 +15,7 @@
 A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tools utilize advanced algorithms and techniques to brute-force or recover the necessary information, allowing users to access their funds and continue managing their digital assets.
 
 
-<p><img src="https://repository-images.githubusercontent.com/668034279/2c9ccd98-3893-4bc0-9f56-5e95df3801ec"/></p>
+<p><img src="https://repository-images.githubusercontent.com/296046602/191e09cd-8efa-4021-9807-7bcdf5105122"/></p>
 
 ## Features:
 
